@@ -1,7 +1,3 @@
-# TwitchTimeAnnouncerBot
-A bot that announces the current time every 2 minutes in Twitch channel chats.
-
-
 # TwitchTimeBot
 
 A simple bot that announces the current time in a Twitch channel's chat every 2 minutes.
