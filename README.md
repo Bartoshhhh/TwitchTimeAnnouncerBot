@@ -1,3 +1,6 @@
+<img src="https://raw.githubusercontent.com/Bartoshhhh/TwitchTimeAnnouncerBot/refs/heads/main/TwitchBot.png" alt="TwitchBot" width="300"/>
+
+
 # TwitchTimeBot
 
 A simple bot that announces the current time in a Twitch channel's chat every 2 minutes.
