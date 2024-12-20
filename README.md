@@ -15,8 +15,8 @@ Before running the bot, make sure you have the following:
 - The following Python libraries installed: `twitchio`, `pytz`.
 
 Install:
-pip install twitchio
-pip install pytz
+- pip install twitchio
+- pip install pytz
 
 
 ## Setup Instructions
