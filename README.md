@@ -41,3 +41,16 @@ Example:
 ```python
 token='your_oauth_token'  # Paste your token here
 initial_channels=['streamer_username']  # Replace with the Twitch channel's name
+
+```
+
+
+### 4. Run the bot
+
+- After updating the code, save the file.
+- Open your command prompt or terminal and navigate to the directory containing `bot.py`.
+- Run the bot using the following command:
+
+```bash
+python bot.py
+
